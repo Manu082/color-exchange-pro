@@ -1,0 +1,16 @@
+{
+  "game_settings": {
+    "max_trades": 10,
+    "starting_cash": 1000,
+    "market_event_chance": 0.3,
+    "volatility_range": [-0.10, 0.10]
+  },
+  "colors": [
+    { "name": "Red", "emoji": "🟥" },
+    { "name": "Blue", "emoji": "🟦" },
+    { "name": "Green", "emoji": "🟩" }
+  ],
+  "leaderboard_settings": {
+    "max_entries": 20
+  }
+}
